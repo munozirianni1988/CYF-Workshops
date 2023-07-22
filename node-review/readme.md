@@ -1,9 +1,6 @@
-
-
 # Node workshop
 
 In this workshop, we'll build up a NodeJS app from the ground up and check our understanding as we go along.
-
 
 Remember to Preview this README.
 
@@ -11,18 +8,18 @@ Remember to Preview this README.
 
 Welcome to Node Workshop Level 100.
 
-
-Take a look at  `package.json`.
+Take a look at `package.json`.
 And take a look at `app.js`.
 
 ## Questions
 
 a) Analyse and then predict what will happen when you run the command `node app.js` inside the `node-review` directory.
 
-Think carefully about the current files and folders you've got in the `node-review` directory. 
-
+Think carefully about the current files and folders you've got in the `node-review` directory.
 
 {YOUR_ANSWER_HERE}
-
+Nothing will happen because there is no dependencies and scripts installed in the package.json.
 
 b) How can you can resolve this problem?
+
+Installing NPM
