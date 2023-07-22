@@ -30,8 +30,8 @@ Firstly,
 
 Q4) Look inside `app.js`.
 
-On line 12, we need to pass some arguments ( inputs ) to the `app.get` method. 
-What type of inputs should we pass to the `app.get` method? Use the express documentation to check your answer.
+On line 12, we need to pass some arguments ( inputs ) to the `server.get` method. 
+What type of inputs should we pass to the `server.get` method? Use the express documentation to check your answer.
  
 
 {YOUR_ANSWER_HERE}
