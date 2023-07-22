@@ -38,3 +38,4 @@ On line 12, we need to pass some arguments ( inputs ) to the `server.get` method
 What type of inputs should we pass to the `server.get` method? Use the express documentation to check your answer.
 
 {YOUR_ANSWER_HERE}
+We have to pass an endpoint, and a function with a request and response parameters
