@@ -1,15 +1,15 @@
-const app = require('express');
+const express = require('express');
 // loading the express module on line one
 console.log("Log 1: ", typeof app);
 
 
-const server = app();
+const server = express();
 // initialise a server
 console.log("Log 2: ", typeof server);
 
 
 
-app.get("/",function() {
+server.get("/",function() {
     response.status(201).send("");
 });
 // set up a "/" endpoint
