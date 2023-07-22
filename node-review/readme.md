@@ -13,8 +13,10 @@ Welcome to Node Workshop Level 300.
 
 ## Questions
 
-Q1) Define an **API** 
+Q1) Define an **API**
+
 Q2) What is the purpose of an **API**
+
 Q3) Define an **endpoint**
 
 If you're unsure about the questions above, then try starting a discussion with another pair.
